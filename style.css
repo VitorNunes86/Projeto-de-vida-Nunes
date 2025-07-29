@@ -7,7 +7,7 @@
     --branco: #2600ff;
     --botao-ativo: #2a1bcf;
     --botao-inativo: rgba(58, 55, 94, 0.5);
-    --texto-fundo: rgb(184, 184, 184);
+    --texto-fundo: rgb(0, 0, 0);
 }
 
 body {
