@@ -2,12 +2,12 @@
 
 
 :root {
-    --cor-de-fundo: #ffffff;
-    --verde: #00e1ff;
-    --branco: #2600ff;
-    --botao-ativo: #000000;
-    --botao-inativo: rgba(58, 55, 94, 0.5);
-    --texto-fundo: rgb(58, 55, 94, 0.5);
+    --cor-de-fundo: #222525;
+    --verde: #57d8ff;
+    --branco: #FFFFFF;
+    --botao-ativo: #271bb1;
+    --botao-inativo: rgba(56, 154, 235, 0.5);
+    --texto-fundo: rgba(58, 55, 94, 0.3);
 }
 
 body {
@@ -15,7 +15,6 @@ body {
     color: var(--branco);
     font-family: 'Chakra Petch', sans-serif;
 }
-
 
 .conteudo-principal {
     display: flex;
